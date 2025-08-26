@@ -3,7 +3,7 @@
 ## Descripción
 Este proyecto es una aplicación de consola en Java que permite analizar textos de manera automática. El usuario puede ingresar un texto manualmente, usar un texto predeterminado o leerlo desde un archivo `.txt`. El programa genera estadísticas detalladas sobre palabras y frases, incluyendo la frecuencia de palabras, la longitud promedio y la cantidad de frases.
 
-El proyecto combina **Programación Orientada a Objetos (POO)** y **programación funcional** usando Streams, ofreciendo un código modular y eficiente.
+El proyecto combina **Programación Orientada a Objetos** y **Programación Funcional** usando Streams, ofreciendo un código modular y eficiente.
 
 ---
 
@@ -28,7 +28,7 @@ El proyecto combina **Programación Orientada a Objetos (POO)** y **programació
 ---
 
 ## Tecnologías y conceptos
-- Java 17+  
+- Java 21  
 - Programación Orientada a Objetos (POO)  
 - Programación funcional con Streams (`Collectors`)  
 - Manejo de archivos con `java.nio.file.Files`  
@@ -89,5 +89,13 @@ el: 3
 
 ---
 
-## Licencia
-Este proyecto está bajo licencia MIT.
+Desarrollador: Mateo Andrés Pineda Beltrán
+
+Resumen:
+
+En éste curso he aprendido tres diferentes paradigmas de programación:
+	** Programación Orientada a Objetos (POO) **
+	** Programación Funcional **
+	** Programación estructural **
+	
+Además de aprender buenas prácticas de nomenclatura al nombrar variables, funciones y clases.
