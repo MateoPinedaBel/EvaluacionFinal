@@ -29,7 +29,7 @@ public class Main {
 
             while (!salir) {
                 int opcion = menu.mostrarMenuPrincipal();
-                String texto = "";
+                String texto;
 
                 switch (opcion) {
                     case 1 -> texto = menu.pedirTexto();

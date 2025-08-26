@@ -44,10 +44,9 @@ public class Menu {
         System.out.println("       buscar.                             ");
         System.out.println("    2. Volver al Menú Principal            ");
         System.out.println("===========================================");
-        System.out.print("  Seleccione una opción:                     ");
-        System.out.println("===========================================");
-
+        System.out.print("  Seleccione una opción: ");
         String entrada = sc.nextLine().trim();
+        System.out.println("===========================================");
         while (!entrada.matches("[1-2]")) {
             System.out.print("Entrada inválida. Ingrese 1 o 2: ");
             entrada = sc.nextLine().trim();
